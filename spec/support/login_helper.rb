@@ -54,6 +54,6 @@ module LoginHelper
       password: "password",
       admin: true
     )
-  end
+  end 
   
 end
